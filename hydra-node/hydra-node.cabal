@@ -103,6 +103,7 @@ library
     , containers
     , contra-tracer
     , data-default
+    , ekg
     , io-sim-classes
     , iohk-monitoring
     , network
