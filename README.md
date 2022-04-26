@@ -6,6 +6,9 @@
   <a href='https://github.com/input-output-hk/hydra-poc/pkgs/container/hydra-node'><img src="https://img.shields.io/github/workflow/status/input-output-hk/hydra-poc/Docker?label=Docker&style=for-the-badge" /></a>
 </div>
 
+[![CI](https://github.com/MitchellTesla/Hydra-POC/actions/workflows/ci.yaml/badge.svg)](https://github.com/MitchellTesla/Hydra-POC/actions/workflows/ci.yaml)
+
+
 ## :sunrise_over_mountains: Introduction
 
 Hydra is the layer-two scalability solution for Cardano, which aims to increase
